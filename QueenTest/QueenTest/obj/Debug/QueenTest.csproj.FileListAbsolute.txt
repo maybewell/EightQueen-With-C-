@@ -1,0 +1,6 @@
+D:\工作同步區\QueenTest\QueenTest\bin\Debug\QueenTest.exe.config
+D:\工作同步區\QueenTest\QueenTest\bin\Debug\QueenTest.exe
+D:\工作同步區\QueenTest\QueenTest\bin\Debug\QueenTest.pdb
+D:\工作同步區\QueenTest\QueenTest\obj\Debug\QueenTest.csprojResolveAssemblyReference.cache
+D:\工作同步區\QueenTest\QueenTest\obj\Debug\QueenTest.exe
+D:\工作同步區\QueenTest\QueenTest\obj\Debug\QueenTest.pdb
